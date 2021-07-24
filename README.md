@@ -8,7 +8,7 @@
 
 ### An expert flutter developer with expert knowledge and practical exposure in developing consumer-based applications.
  ### Connect with me:
-
+[![Instagram Badge](https://img.shields.io/badge/-Usman Afzal-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/usmanafzal854/)](https://www.instagram.com/usmanafzal854/)
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
