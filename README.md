@@ -1,5 +1,6 @@
 <a href="https://twitter.com/Usmanafzal854"><img align="center" src="https://github.com/UsmanAfzal8/UsmanAfzal8/blob/main/Background.png"/></a>
 # Hi , i am Usman Afzal 👋
+- ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
 - 🎬 YouTuber  
