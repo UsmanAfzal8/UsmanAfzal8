@@ -10,3 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-UsmanAfzal-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/usmanafzal8/)](https://www.linkedin.com/in/usmanafzal8/)
 [![Youtube Badge](https://img.shields.io/badge/-codingisfun-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMzrh4tBgGjXdC9Et4ML0Hw)](https://www.youtube.com/channel/UCMzrh4tBgGjXdC9Et4ML0Hw)
 [![Twitter Badge](https://img.shields.io/badge/-UsmanAfzal-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/Usmanafzal854)](https://twitter.com/Usmanafzal854)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=UsmanAfzal8&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanAfzal8&theme=radical"/>|
+|---|---|
