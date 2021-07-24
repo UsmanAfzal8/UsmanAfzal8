@@ -4,6 +4,9 @@
 - 👨🏻‍💻 App Developer
 - 🎬 YouTuber  
 
+
+
+#An expert flutter developer with expert knowledge and practical exposure in developing consumer-based applications.
  ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
