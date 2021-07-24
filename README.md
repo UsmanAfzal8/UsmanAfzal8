@@ -1,4 +1,4 @@
-### Hi , i am Usman Afzal 👋 👋
+# Hi , i am Usman Afzal 👋 👋
 ## Flutter Developer and Tutorial Author at Youtube !!
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
@@ -6,7 +6,7 @@
 
 
 
-# An expert flutter developer with expert knowledge and practical exposure in developing consumer-based applications.
+### An expert flutter developer with expert knowledge and practical exposure in developing consumer-based applications.
  ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
