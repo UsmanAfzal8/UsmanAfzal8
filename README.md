@@ -14,3 +14,7 @@
 ## MY GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=UsmanAfzal8&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanAfzal8&theme=radical"/>|
 |---|---|
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=UsmanAfzal8&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
