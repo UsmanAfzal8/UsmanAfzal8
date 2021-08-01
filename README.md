@@ -16,6 +16,6 @@
 |---|---|
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asril46&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=UsmanAfzal8&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
