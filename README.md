@@ -1,5 +1,14 @@
 <a href="https://twitter.com/Usmanafzal854"><img align="center" src="https://github.com/UsmanAfzal8/UsmanAfzal8/blob/main/Background1.png"/></a>
 # Hi , i am Usman Afzal 👋
+[![wakatime](https://wakatime.com/badge/user/93728ddc-bfc4-4166-9139-e76809f2bd02.svg)](https://wakatime.com/@93728ddc-bfc4-4166-9139-e76809f2bd02)
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=usmanafzal8&label=Profile%20views&color=0e75b6&style=plastic" alt="usmanafzal8" /> 
+	<a href = "https://commits.top/pakistan.html" target="_blank">
+<!-- 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="hassan-zafar" target="_blank"/>  -->
+	</a>
+</p>
+Skills: FLUTTER / Firebase / BLockchain / SOLIDITY
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
