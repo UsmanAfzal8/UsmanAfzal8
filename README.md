@@ -20,6 +20,6 @@ Skills: FLUTTER / Firebase / BLockchain / SOLIDITY
 [![trophy](https://github-profile-trophy.vercel.app/?username=usmanafzal8&margin-w=25&margin-h=25&column=7&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ## CODING ACTIVITY
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usmanafzal88&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usmanafzal8&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
