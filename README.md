@@ -1,6 +1,6 @@
 <a href="https://twitter.com/Usmanafzal854"><img align="center" src="https://github.com/UsmanAfzal8/UsmanAfzal8/blob/main/Background1.png"/></a>
 # Hi , i am Usman Afzal 👋
-[![wakatime](https://wakatime.com/badge/user/93728ddc-bfc4-4166-9139-e76809f2bd02.svg)](https://wakatime.com/@93728ddc-bfc4-4166-9139-e76809f2bd02)
+[![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
 
 Skills: FLUTTER / Firebase / BLockchain / SOLIDITY
 - ⚡️ Passionate about Coding & Technology
