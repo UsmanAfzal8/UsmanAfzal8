@@ -1,6 +1,6 @@
 <div align="left"> 
-<a href="https://app.daily.dev/UsmanAfzal8"><img src="https://api.daily.dev/devcards/556171bf12b54f5390dead82b2069679.png?r=ssh" 
-                                                 width="250" align="right" alt="usman afzal's Dev Card"/></a>
+
+  <a href="https://app.daily.dev/UsmanAfzal8"><img src="https://api.daily.dev/devcards/556171bf12b54f5390dead82b2069679.png?r=ssh" width="256" align="right" alt="usman afzal's Dev Card"/></a>
                                                 
 
 # Hi , i am Usman Afzal 👋
