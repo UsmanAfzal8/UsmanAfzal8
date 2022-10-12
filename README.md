@@ -5,7 +5,8 @@
   
 [![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
   
- - ⚡️ Passionate about Coding & Technology
+ ### About Me 
+- ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
 - 🎬 YouTuber 
