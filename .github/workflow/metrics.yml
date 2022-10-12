@@ -1,143 +1,53 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "40 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main"]}
-
+  push: {branches: ["master", "main"]}
 jobs:
-
-  achievements:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ ![Metrics](https://metrics.lecoq.io/usmanafzal8?template=classic&base.hireable=true&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=c%2B%2B%2CCMake&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=kb&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKarachi&config.twemoji=true) }}
-          committer_token: ${{ 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 }}
-          user: UsmanAfzal8
-          base: achievements
-          plugin_achievements: yes
-          plugin_achievements_threshold: B      # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes      # Display unlocked secrets achievements
-          plugin_achievements_display: compact  # Use compact display
-          plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
-
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: header.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{https://metrics.lecoq.io/usmanafzal8?template=classic&base.hireable=true&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=c%2B%2B%2CCMake&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=kb&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKarachi&config.twemoji=true }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ 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 }}
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: UsmanAfzal8
+          user: usmanafzal8
           template: classic
-          base: header
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-  lines:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: lines-of-code.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ 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 }}
-          base: "repositories"
-          plugin_lines: yes
-
-  acti_comm:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: acti_comm.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ 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 }}
-
-          # Options
-          user: UsmanAfzal8
-          template: classic
-          base: activity, community
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-
-  iso_calender:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: iso_calender.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ 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 }}
-
-          # Options
-          user: UsmanAfzal8
-          template: classic
-          base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          base_indepth: yes
+          config_timezone: Asia/Karachi
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 6
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-  habits:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-habits.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ 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 }}
-          config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
-          user: UsmanAfzal8
-          base: ""
-          template: classic
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-
-  issue_pr_lang:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: issue_pr_lang.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ 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 }}
-
-          # Options
-          user: UsmanAfzal8
-          template: classic
-          base: ""
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
-          plugin_followup: yes
           plugin_languages: yes
-
-
-  repositories:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: repositories.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_SECRET }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ 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 }}
-
-          # Options
-          user: UsmanAfzal8
-          template: classic
-          base: repositories
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: KB
+          plugin_languages_ignored: c++,CMake
+          plugin_languages_limit: 6
+          plugin_languages_other: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 1%
