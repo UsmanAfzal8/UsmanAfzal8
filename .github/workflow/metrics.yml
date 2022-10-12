@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "10 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -15,7 +15,7 @@ jobs:
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
           user: UsmanAfzal8
           base: achievements
           plugin_achievements: yes
@@ -33,7 +33,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
 
           # Options
           user: UsmanAfzal8
@@ -47,7 +47,7 @@ jobs:
         with:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
           base: "repositories"
           plugin_lines: yes
 
@@ -60,7 +60,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
 
           # Options
           user: UsmanAfzal8
@@ -77,7 +77,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
 
           # Options
           user: UsmanAfzal8
@@ -94,7 +94,7 @@ jobs:
         with:
           filename: github-habits.svg
           token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
           user: UsmanAfzal8
           base: ""
@@ -114,7 +114,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
 
           # Options
           user: UsmanAfzal8
@@ -134,7 +134,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ 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 }}
 
           # Options
           user: UsmanAfzal8
