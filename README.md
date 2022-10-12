@@ -2,7 +2,7 @@
 
   <a href="https://app.daily.dev/UsmanAfzal8"><img src="https://api.daily.dev/devcards/556171bf12b54f5390dead82b2069679.png?r=ssh" width="256" align="right" alt="usman afzal's Dev Card"/></a>
   
-  <a href="https://linkedin.com/in/usmanafzal8"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="56" align="right" alt="usman afzal's linkedin"/></a>
+  <p href="https://linkedin.com/in/usmanafzal8"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" align="right" alt="usman afzal's linkedin"/></p>
                                                 
 [![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
   
