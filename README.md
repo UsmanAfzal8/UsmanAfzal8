@@ -1,6 +1,8 @@
 <div align="left"> 
 
-  <a href="https://app.daily.dev/UsmanAfzal8"><img src="https://api.daily.dev/devcards/556171bf12b54f5390dead82b2069679.png?r=ssh" width="256" align="right" alt="usman afzal's Dev Card"/></a>
+  <a href="https://app.daily.dev/UsmanAfzal8">
+    <img src="https://api.daily.dev/devcards/556171bf12b54f5390dead82b2069679.png?r=ssh" width="256" align="right" alt="usman afzal's Dev Card"/>
+  </a>
   
   <p href="https://linkedin.com/in/usmanafzal8"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" align="right" alt="usman afzal's linkedin"/></p>
                                                 
