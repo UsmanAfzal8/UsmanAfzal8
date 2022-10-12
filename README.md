@@ -4,6 +4,7 @@
                                                 
 
 ![Metrics](https://metrics.lecoq.io/usmanafzal8?template=classic&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=Asia%2FKarachi&config.twemoji=true)
+  
 [![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
 
 Skills: FLUTTER / Firebase / BLockchain / SOLIDITY
