@@ -7,7 +7,7 @@
   
 [![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
   
-  ![Metrics](https://metrics.lecoq.io/usmanafzal8?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FKarachi&config.twemoji=true)
+  ![Metrics](https://metrics.lecoq.io/usmanafzal8?template=classic&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&config.timezone=Asia%2FKarachi&config.twemoji=true)
 
 Skills: FLUTTER / Firebase / BLockchain / SOLIDITY
 - ⚡️ Passionate about Coding & Technology
