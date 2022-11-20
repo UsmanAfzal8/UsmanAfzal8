@@ -9,7 +9,7 @@
  ### About Me 
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
-- 👨🏻‍💻 App Developer & Blockchain Developer
+- 👨🏻‍💻 App Developer 
 - 🎬 YouTuber 
   
 
