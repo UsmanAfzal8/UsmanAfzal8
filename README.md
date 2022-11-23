@@ -10,12 +10,12 @@
  ### About Me 
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
-- 👨🏻‍💻 App Developer 
-- 🎬 YouTuber 
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@codingisfun3784).
+- 📫 How to reach me: Check social links below.
   
 
   
-Skill: FLUTTER / Firebase / BLockchain / SOLIDITY
+Skill: Flutter / Firebase / BLockchain / Solidity
  
 
  ### Connect with me:
