@@ -4,7 +4,7 @@
   </a>
   
   [![wakatime](https://wakatime.com/badge/user/9a95afcc-2546-45ea-a4cd-082f5bd4dc04.svg)](https://wakatime.com/@9a95afcc-2546-45ea-a4cd-082f5bd4dc04)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanafzal8&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 
   
  ### About Me 
