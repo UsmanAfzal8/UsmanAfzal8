@@ -12,7 +12,7 @@
 - 🌱 I want learning everything 🤣
 - ⚡ Founder @ [codingisfun](https://linktr.ee/codingisfun)
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@codingisfun3784).
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check social links below.👇👇
   
 
   
