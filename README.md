@@ -13,7 +13,7 @@
 - ⚡ Founder @ [codingisfun](https://linktr.ee/codingisfun)
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@codingisfun3784).
 
-<a href="https://stardev.io/developers/UsmanAfzal8"><img alt="Check out UsmanAfzal8&apos;s profile on stardev.io" src="https://stardev.io/developers/UsmanAfzal8/badge/languages/locality.svg" /></a>
+
   
 
 Skill: Flutter / Firebase / BLockchain / Solidity
