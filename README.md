@@ -12,10 +12,10 @@
 - 🌱 I want learning everything 🤣
 - ⚡ Founder @ [codingisfun](https://linktr.ee/codingisfun)
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@codingisfun3784).
-- 📫 How to reach me: Check social links below.👇👇
+
+<a href="https://stardev.io/developers/UsmanAfzal8"><img alt="Check out UsmanAfzal8's profile on stardev.io" src="https://stardev.io/developers/Sky24n/badge/languages/global.svg" /></a>
   
 
-  
 Skill: Flutter / Firebase / BLockchain / Solidity
  
 
