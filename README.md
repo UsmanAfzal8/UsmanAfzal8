@@ -9,6 +9,7 @@
   
  ### About Me 
 - ⚡️ Passionate about Coding & Technology
+- 📫 Reach me out (Whatsapp): +92 310 6609666
 - 🌱 I want learning everything 🤣
 - ⚡ Founder @ [codingisfun](https://linktr.ee/codingisfun)
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@codingisfun3784).
