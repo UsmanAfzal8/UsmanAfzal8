@@ -26,7 +26,14 @@ Skill: Flutter / Firebase / BLockchain / Solidity
 [![Youtube Badge](https://img.shields.io/badge/-codingisfun-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMzrh4tBgGjXdC9Et4ML0Hw)](https://www.youtube.com/channel/UCMzrh4tBgGjXdC9Et4ML0Hw)
 [![Twitter Badge](https://img.shields.io/badge/-UsmanAfzal-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://twitter.com/Usmanafzal854)](https://twitter.com/Usmanafzal854)
 
+<p><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&column=7&theme=nord&no-frame=true"/></p>
 
+<a href = "https://www.linkedin.com/in/usmanafzal8/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=UsmanAfzal8&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Activity Graph"></a>
+
+<!-- ### GitHub Stats -->
+<div>
+<p align="center"><img  height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=UsmanAfzal8&theme=nord" alt="UsmanAfzal8" /></p>
+<div>
 ## CODING ACTIVITY
 <p>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=usmanafzal8&layout=compact&theme=chartreuse-dark&hide_border=true" />
