@@ -17,7 +17,7 @@
 
   
 
-Skill: Flutter / Firebase / BLockchain / Solidity
+Skill: Flutter / Firebase/ Supabase / BLockchain / Solidity
  
 
  ### Connect with me:
